@@ -61,8 +61,8 @@ header{
     cursor: pointer;
 }
 .active-logo{
-    animation: activeLogo 2s infinite   ;
-    -webkit-animation: activeLogo 2s infinite   ;
+    animation: activeLogo 5s infinite   ;
+    -webkit-animation: activeLogo 5s infinite   ;
 }
 .select_choiceTheme, .btns_choiceTheme, .radio_choiceTheme{
     display: none;
